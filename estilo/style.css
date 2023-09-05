@@ -15,7 +15,15 @@
     align-items: center;
     justify-content: center;
     background: rgb(0, 2, 5) ;
-    
+    position: relative;
+
+}
+
+header{
+    color: white;
+    position: absolute;
+    top: 5%;
+    text-align: end;
 }
 
 #left{
