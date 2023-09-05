@@ -23,7 +23,7 @@ header{
     color: white;
     position: absolute;
     top: 5%;
-    text-align: end;
+    color: #77ffc0;
 }
 
 #left{
@@ -37,7 +37,7 @@ header{
 }
 
 #left > h1{
-    color: #77ffc0;
+    
     text-align: center;  
 }
 
